@@ -1,8 +1,16 @@
 # Mikit Digital
 
-🚀 Sitio web creado con Framer para mostrar comparativas de herramientas de inteligencia artificial, marketing digital y programas de afiliados.
+🚀 **Mikit Digital** es un sitio web creado con Framer, diseñado para emprendedores que buscan comparar y aprovechar herramientas de inteligencia artificial, estrategias de marketing digital y programas de afiliación.
 
-🌐 [Visitar sitio en vivo](https://mikitdigital.framer.website)
+📌 En este sitio encontrarás:
+- Comparativas de herramientas de IA
+- Consejos de marketing digital
+- Enlaces de afiliados activos
+- Recursos gratuitos para potenciar tu negocio
+
+🌐 **Visita el sitio en vivo:**  
+[https://mikitdigital.framer.website](https://mikitdigital.framer.website)
 
 ---
-Este proyecto será mejorado continuamente.
+
+🔧 Proyecto en construcción – nuevas funciones y mejoras visuales serán agregadas próximamente.
